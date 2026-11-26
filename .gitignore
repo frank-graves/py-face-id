@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+config/serviceAccountKey.json
+config/settings.json
+*.db
+*.sqlite
+dataset_rostros/*
+!dataset_rostros/.gitkeep
+temp_*.jpg
+dist/
+build/
+*.spec

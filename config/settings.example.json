@@ -1,0 +1,4 @@
+{
+  "sync_enabled": false,
+  "firebase_credentials_path": "config/serviceAccountKey.json"
+}
